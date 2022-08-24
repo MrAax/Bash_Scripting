@@ -1,2 +1,2 @@
 # Bash_Scripting
-My Bash Scripting 
+Bash Scripting 
